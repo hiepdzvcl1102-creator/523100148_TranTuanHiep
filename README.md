@@ -1,8 +1,3 @@
-# Hiepcar -- Website hỗ trợ tìm kiếm và cho thuê xe
-
-Hiepcar là đồ án học tập cá nhân xây dựng website hỗ trợ tìm kiếm, xem
-thông tin và đặt thuê xe trực tuyến. Hệ thống có khu vực người dùng/chủ
-xe và khu vực quản trị viên.
 
 ## 1. Công nghệ sử dụng
 
@@ -162,11 +157,7 @@ log Backend.
 Đây là các tiền tố API được khai báo trong Backend; endpoint chi tiết và
 phương thức HTTP được xác định trong từng file routes.
 
-## 10. Tác giả
 
--   **Sinh viên:** Trần Tuấn Hiệp
--   **Mã sinh viên:** 523100148
--   **Đề tài:** Xây dựng website hỗ trợ tìm kiếm và cho thuê xe --
     Hiepcar
 
 ------------------------------------------------------------------------
